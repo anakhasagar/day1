@@ -1,0 +1,28 @@
+#first{
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: brown;
+}
+.nav
+{
+    display: flex;
+    justify-content: flex-end;
+   color: rgb(150, 9, 9); 
+}
+#ab{
+    color:aliceblue;
+}
+#third{
+    display: flex;
+    justify-content:center;
+    margin: 0;
+}
+#last{
+    margin: 60px;
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+}
